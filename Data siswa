@@ -141,14 +141,13 @@
 
     <!-- Footer Nama Pengembang -->
     <footer class="mt-2 py-2 text-center text-muted">
-      <small>Dikembangkan oleh: <strong>Jaja Sudrajat, S.Kom., Gr</strong></small>
+      <small>Dikembangkan oleh: <strong>AMATUL WAKEEL</strong></small>
     </footer>
   </div>
 
   <script>
     // GANTI SCRIPT_URL DI BAWAH INI DENGAN WEB APP URL GOOGLE APPS SCRIPT ANDA
-    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxNCyo7MUk67K-371fs41iVxrOq6wdQBHMs8lfese4QlSkN_yf-OQpQeGg5F6N6i1YyKA/exec";
-
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwcU3o2tIijXooTd1kZjQhLBYzsvJOvQ0eF3PajfwJZKfpIJH_scVwFYr3ui3BjqM7q-w/exec";
     document.addEventListener("DOMContentLoaded", loadStudents);
 
     // 1. READ: Mengambil Data Siswa dari Google Sheets
