@@ -139,7 +139,7 @@
 
     <!-- Footer Nama Pengembang -->
     <footer class="mt-2 py-2 text-center text-muted">
-      <small>Dikembangkan oleh: <strong>Jaja Sudrajat, S.Kom., Gr</strong></small>
+      <small>Dikembangkan oleh: <strong>amatul wakeel </strong></small>
     </footer>
   </div>
 
